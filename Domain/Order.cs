@@ -13,6 +13,5 @@ namespace Domain
         public Order() { 
             Items = new List<OrderItem>(); 
         }
-
     }
 }
